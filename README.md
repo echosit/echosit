@@ -11,4 +11,4 @@ A little about me...
 - ⚡  Fun fact: ... I want to go camping for the first time!
 
 Skills:
-ReactJS, Node/Express.js, MongoDB/Mongoose, Git, Javascript, jQuery, Bootstrap, Material UI, Github, HTML, CSS, 
+ReactJS, Node/Express.js, MongoDB/Mongoose, Git, Javascript, jQuery, Bootstrap, Material UI, Github, HTML, CSS 
