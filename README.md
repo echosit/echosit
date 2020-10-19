@@ -2,7 +2,7 @@
 
 A little about me...
 
-- 💻  I’m currently coding ... an ios app
+- 💻  I’m currently coding ... an iOS and Android app
 - 🌱  I’m currently learning ... React Native
 - 🚩  My current goal is to ... spend everyday working on web app projects 
 - 💬  Ask me about ... my repositories!
