@@ -9,3 +9,6 @@ A little about me...
 - 📫  How to reach me: ... [LinkedIn](https://www.linkedin.com/in/echosit/)
 - 😄  Pronouns: ... She/Her
 - ⚡  Fun fact: ... I want to go camping for the first time!
+
+Skills:
+ReactJS, Node/Express.js, MongoDB/Mongoose, Git, Javascript, jQuery, Bootstrap, Material UI, Github, HTML, CSS, 
