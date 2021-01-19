@@ -9,7 +9,7 @@ A little about me...
 - 😄  Pronouns: ... She/Her
 - ⚡ Fun facts: ... I love hiking and I hope to go camping for the first time
 
-My tools so far...
+### Tools so far 🔥
 
 __Frontend:__ ReactJS, Redux, JSX, JSON, Mongoose, Bootstrap, Material UI, React UI Components, FlexBox
 
