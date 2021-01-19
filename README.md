@@ -7,7 +7,7 @@ A little about me...
 - 💬  Ask me about ... my recent projects!
 - 📫  How to reach me: ... [LinkedIn](https://www.linkedin.com/in/echosit/)
 - 😄  Pronouns: ... She/Her
-- ⚡ Fun facts: ... I love hiking and I hope to go camping for the first time
+- ⚡ Fun facts: ... I love hiking and hope to go camping for the first time
 
 
 What I work with...
