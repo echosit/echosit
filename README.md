@@ -9,12 +9,11 @@ A little about me...
 - 😄  Pronouns: ... She/Her
 - ⚡ Fun facts: ... I love hiking and I hope to go camping for the first time
 
-### Tools so far 🔥
+### Tools 🔥
 
-__Frontend:__ ReactJS, Redux, JSX, JSON, Mongoose, Bootstrap, Material UI, React UI Components, FlexBox
+What I work with...
 
-__Backend:__ NodeJS, ExpressJS, NPM
-
-__Database:__ MongoDB
-
-__Version Controls:__ Git, Github 
+- __Frontend:__ ReactJS, Redux, JSX, JSON, Mongoose, Bootstrap, Material UI, React UI Components, FlexBox
+- __Backend:__ NodeJS, ExpressJS, NPM
+- __Database:__ MongoDB
+- __Version Controls:__ Git, Github 
