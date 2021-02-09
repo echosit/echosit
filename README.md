@@ -2,9 +2,9 @@
 
 A little about me...
 
-- 💻  I’m currently coding ... a MERN Stack Ecommerce Web Application
-- 🚩  My current goal is to ... spend everyday working on coding projects 
-- 💬  Ask me about ... my recent projects!
+- 💻  I’m currently coding ... a Pomodoro Timer with ReactJS
+- 🚩  My current goal is to ... commit to Github more often 
+- 💬  Ask me about ... my repositories!
 - 📫  How to reach me: ... [LinkedIn](https://www.linkedin.com/in/echosit/)
 - 😄  Pronouns: ... She/Her
 - ⚡ Fun facts: ... I love hiking and hope to go camping for the first time
