@@ -4,7 +4,7 @@
 
 - 🌱  I'm learning ... how to test my projects using Jest! 
 - 🛠️  I’m coding ... a Pomodoro Timer🍅  with ReactJS using hooks
-- 🚩  My goal is to ... code or learn a new a technology everyday
+- 🚩  My goal is to ... code or learn a new technology everyday
 - 🔍  See my ... [LinkedIn](https://www.linkedin.com/in/echosit) and [Portfolio](https://echosit.github.io)
 - 😄  Pronouns: ... She/Her/Hers
 - 🕹️  Hobbies: ... I am learning game design and development in my free time! I hope to create an rpg horror game👻  using Phaser.js and Aseprite.
