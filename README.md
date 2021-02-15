@@ -1,18 +1,18 @@
 ### Hi! Thanks for dropping by 👋
 
-A little about me...
+***A little about me...***
 
-- 💻  I’m currently coding ... a Pomodoro Timer with ReactJS
-- 🚩  My current goal is to ... commit to Github more often 
-- 💬  Ask me about ... my repositories!
-- 📫  How to reach me: ... [LinkedIn](https://www.linkedin.com/in/echosit/)
-- 😄  Pronouns: ... She/Her
-- ⚡ Fun facts: ... I love hiking and hope to go camping for the first time
+- 🌱  I'm learning ... how to test my projects using Jest! 
+- 🛠️  I’m coding ... a Pomodoro Timer🍅  with ReactJS using hooks
+- 🚩  My goal is to ... code or learn a new a technology everyday
+- 🔍  See my ... [LinkedIn](https://www.linkedin.com/in/echosit) and [Portfolio](https://echosit.github.io)
+- 😄  Pronouns: ... She/Her/Hers
+- 🕹️  Hobbies: ... I am learning game design and development in my free time! I hope to create an rpg horror game👻  using Phaser.js and Aseprite.
 
+***My Skills✨...***
 
-What I work with...
+Responsive Web Design, UI/UX Design, Wireframing/Prototyping, Single Page/Full-Stack Web Applications, APIs and Databases
 
-- __Frontend:__ ReactJS, Redux, JSX, JSON, Mongoose, Bootstrap, Material UI, React UI Components, FlexBox
-- __Backend:__ NodeJS, ExpressJS, NPM
-- __Database:__ MongoDB
-- __Version Controls:__ Git, Github 
+***My Tools🧰....***
+
+Figma, JavaScript, HTML, CSS, ReactJS, Redux, Git, Github, Bootstrap, Material UI, NodeJS, ExpressJS, MongoDB
