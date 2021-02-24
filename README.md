@@ -2,7 +2,7 @@
 
 ***A little about me...***
 
-- 🌱  I'm learning ... how to test my projects using Jest! 
+- 🌱  I'm learning ... how to test my projects using Jest and Enzyme! 
 - 🛠️  I’m coding ... a Pomodoro Timer🍅  with ReactJS using hooks
 - 🚩  My goal is to ... code or learn a new technology everyday
 - 🔍  See my ... [LinkedIn](https://www.linkedin.com/in/echosit) and [Portfolio](https://echosit.github.io)
